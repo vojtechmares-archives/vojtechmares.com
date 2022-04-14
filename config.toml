@@ -34,6 +34,10 @@ enableEmoji = true
       identifier = "twitter"
       name = "Twitter"
       url = "https://twitter.com/vojtechmares_"
+    [[params.links.dev]]
+      identifier = "linkedin"
+      name = "LinkedIn"
+      url = "https://www.linkedin.com/in/vojtech-mares/"
 
 [languages]
   [languages.en]
