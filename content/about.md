@@ -5,12 +5,11 @@ I'm 24 years old. Freelance Software engineering and DevOps consultant. Right no
 
 ## Professional career
 
-**Since November 2021**: DevOps/MLOps engineer at [GLAMI](https://www.glami.cz/). I am responsible for building our infrastructure on AWS with Terraform and operating our applications on AWS EKS aka Kubernetes.
+**Since Nov 2021**: DevOps/MLOps engineer at [GLAMI](https://www.glami.cz/). I am responsible for building our infrastructure on AWS with Terraform and operating our applications on AWS EKS aka Kubernetes.
 
-**Sept 2020 - Nov 2021**: Co-Founded [SikaLabs](https://sikalabs.com) with [Ondrej Sika](https://ondrej-sika.cz). A DevOps consulting company (we also did implementation of proposed solution). Our main focus was on on-premise Kubernetes and helping companies build _cloud native_ applications.
+**Sep 2020 - Nov 2021**: Co-Founded [SikaLabs](https://sikalabs.com) with [Ondrej Sika](https://ondrej-sika.cz). A DevOps consulting company (we also did implementation of proposed solution). Our main focus was on on-premise Kubernetes and helping companies build _cloud native_ applications.
 
-**Since 09/2020**: DevOps consulting and training\
-I implement DevOps culture into companies, meaning implementing full CI pipeline with GitLab CI, managing infrastrcture with Terraform, building docker images and deploying them to Kubernetes (on any provider, from AWS, to on-prem HW with OpenStack)
+**Since Sep 2020**: DevOps consulting and training.
 
 **Oct 2019 - Apr 2020**: Volunteer at [IAESTE Czech Republic](https://www.iaeste.cz) as IT Manager\
 My main responsibility was keeping legacy infrastructure and systems up and running. Some where legacy PHP or Java apps running on VMs (private KVM on baremetal). Some new systems are hosted at their developers to reduce the need of dedicated IT, since it requires a lot of time to keep together. Microsites for small events are deployed in managed Kubernetes so no need to manage linux servers, the goal is to migrate everything to Kubernetes. GitLab and CI was havily used with Kubernetes and all historic projects are archived.
