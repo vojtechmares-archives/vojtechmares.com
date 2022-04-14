@@ -6,8 +6,10 @@ image: /images/me.jpg
 
 ## // My name is Vojtech Mares
 
-I'm from Czech Republic and I am software engineer, freelancer and devops consultant. I am fluent in English (C1). I have been programming professionaly for about three years. 
+I'm from Prague, Czech Republic and I am DevOps and Software engineer.
 
-Mostly I work on backend, but frontend is not new to me. I write web apps in PHP. On the other hand, I would love to write Go or Java for production. Personaly I am a fan of Vue.js. I love cloud approach, create computing (and other) resources as you need them and destroy them when you no longer do. 
+_I can't wait to attend this years KubeCon Europe!_
 
-Also, I do not write as much code as I did a year ago, because I am helping companies to get started with DevOps practices as a third party consultant. In a few weeks I will be kicking off my first training on Git and GitLab CI.
+Currently I work for [GLAMI](https://www.glami.cz/) as MLOps/DevOps engineer. We run workload on Kubernetes and we are in the process of migrating everything to Kubernetes including training of ML models.
+
+I really like DevOps, Kubernetes and along the way I fell in love with Golang.
