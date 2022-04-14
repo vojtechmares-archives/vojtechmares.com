@@ -2,7 +2,6 @@
 <html>
     {{- partial "head.html" . -}}
     <body class="light preload">
-        {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
         {{- partial "footer.html" . -}}
         {{ if .IsHome }}
