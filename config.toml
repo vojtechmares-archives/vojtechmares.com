@@ -54,9 +54,9 @@ enableEmoji = true
         identifier = "about"
         name = "About"
         url = "/about"
-        wieght = 5
+        wieght = 2
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "/blog"
+        url = "https://www.vojtechmares.blog"
         weight = 3
